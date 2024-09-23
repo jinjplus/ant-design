@@ -7,6 +7,7 @@ const App: React.FC = () => (
     <Radio value={2}>B</Radio>
     <Radio value={3}>C</Radio>
     <Radio value={4}>D</Radio>
+    <Radio value={5}>E</Radio>
   </Radio.Group>
 );
 
